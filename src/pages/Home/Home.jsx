@@ -1,4 +1,4 @@
-import './home.css';
+import './Home.css';
 import heroChild from '../../assets/hero-child.svg';
 import orbitRing from '../../assets/orbit-ring.svg';
 import orbitRing2 from '../../assets/orbit2.svg';
