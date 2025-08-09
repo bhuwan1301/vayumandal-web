@@ -1,0 +1,12 @@
+.layout {
+  min-height: 100vh;
+  background: linear-gradient(to bottom, #000000, #0e1a3d);
+  display: flex;
+  flex-direction: column;
+}
+
+.main-content {
+  flex: 1;
+  padding-top: 80px; /* Account for fixed navbar */
+  color: #fff;
+}
